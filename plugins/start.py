@@ -97,8 +97,8 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("⚡ 𝗖𝗹𝗼𝘀𝗲 ⚡", callback_data = "close")
                 ],
                 [
-                    InlineKeyboardButton("⚡ 𝙁𝙪𝙕𝙞𝙤𝙣𝙓 ⚡", url = "https://t.me/FuZionX"),
-                    InlineKeyboardButton("⚡ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥 ⚡", url = "https://t.me/FuZionXGroup")
+                    InlineKeyboardButton("⚡ 𝙎𝙚𝙧𝙞𝙚𝙨𝙊𝙢𝙚𝙜𝙖 ⚡", url = "https://t.me/FuZionX"),
+                    InlineKeyboardButton("⚡ 𝙊𝙏𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ⚡", url = "https://t.me/FuZionXGroup")
                 ]
             ]
         )
